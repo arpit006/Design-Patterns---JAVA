@@ -1,0 +1,1 @@
+Builder Pattern is used when we want to implement a class having many properties.
